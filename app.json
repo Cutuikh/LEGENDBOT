@@ -43,12 +43,12 @@
     },
     "API_KEY": {
       "description": "Required for updating the bot and other stuff get it from https://dashboard.heroku.com/account",
-      "value": "",
+      "value": "56122df1-c23c-4209-b6ea-e17192b2680f",
       "required": false
     },
     "APP_NAME": {
       "description": "YOUR app name ",
-      "value": "",
+      "value": "cutekillerrhigsh",
       "required": false
     },
     "UPSTREAM_REPO": {
